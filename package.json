@@ -15,7 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:wip": "jest path test/unitTest/getBookerUnitTest.test.ts"
   },
   "devDependencies": {
     "@types/jest": "29.0",
