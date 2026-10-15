@@ -1,0 +1,27 @@
+{
+  "name": "apibetest",
+  "version": "1.0.0",
+  "description": "Api Test",
+  "homepage": "https://github.com/Zubeda1/ApiBETest#readme",
+  "bugs": {
+    "url": "https://github.com/Zubeda1/ApiBETest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zubeda1/ApiBETest.git"
+  },
+  "license": "ISC",
+  "author": "Zubeda Shahnan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "29.0",
+    "axios": "1.9",
+    "jest": "^29.4.2",
+    "ts-jest": "29.4",
+    "typescript": "5.4"
+  }
+}
